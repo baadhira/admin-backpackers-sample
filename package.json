@@ -1,5 +1,8 @@
 {
   "name": "lamadmin",
+  "engines": {
+    "node": "16.14.2"
+  },
   "version": "0.1.0",
   "private": true,
   "dependencies": {
